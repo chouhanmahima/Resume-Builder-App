@@ -207,7 +207,7 @@ Backend-dependencies : {
 
 - Hosted Link 👇🏼
 
-    [Click Me](https://resume-builder-app)
+    [Click Me](https://resume-builder-app-frontend.onrender.com)
 
 
 - Github Repo 👇🏼
