@@ -99,7 +99,7 @@ A modern, feature-rich web application that allows users to craft professional r
 
 ```bash
 # Clone the repo
-git clone https://github.com/mahimachouhan/Resume-Builder-App
+git clone https://github.com/chouhanmahima/Resume-Builder-App
 cd resume-builder
 ```
 
@@ -161,17 +161,17 @@ resume-builder/
 
 ```csharp
 Frontend-dependencies : {
-    "@tailwindcss/vite": "^4.1.5",
+    "@tailwindcss/vite": "^4.1.7",
     "axios": "^1.9.0",
     "html2canvas": "^1.4.1",
     "moment": "^2.30.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "react-hot-toast": "^2.5.2",
     "react-icons": "^5.5.0",
-    "react-router-dom": "^7.5.3",
+    "react-router-dom": "^7.6.0",
     "react-to-print": "^3.1.0",
-    "tailwindcss": "^4.1.5"
+    "tailwindcss": "^4.1.7"
 }
 ```
 
@@ -182,8 +182,8 @@ Backend-dependencies : {
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.14.1",
-    "multer": "^1.4.5-lts.2"
+    "mongoose": "^8.15.1",
+    "multer": "^2.0.0"
 }
 ```
 
@@ -212,7 +212,7 @@ Backend-dependencies : {
 
 - Github Repo 👇🏼
 
-    [Click Me](https://github.com/mahimachouhan/Resume-Builder-App.git)
+    [Click Me](https://github.com/chouhanmahima/Resume-Builder-App)
 
 ---
 
